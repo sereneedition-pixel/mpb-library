@@ -1,0 +1,1 @@
+기획예산처 가상도서관: 사진 기반 이동 모드 + 기존 3D 모드. index.html, favorite_library.jpg, inspiration.jpg 파일을 GitHub Pages 저장소 최상위에 업로드하세요. 독서기록은 해당 브라우저에 저장됩니다.\n
